@@ -6,7 +6,7 @@
     "event": "suiteStart",
     "suite": "PrivateChat_test",
     "tests": 2
-}{
+} {
     "event": "testStart",
     "suite": "PrivateChat_test",
     "test": "PrivateChat_test::test_addMemberToPrivateChat"
