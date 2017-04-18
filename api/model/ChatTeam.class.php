@@ -1,6 +1,5 @@
 <?php
 
-namespace ChatSystem;
 
 class ChatTeam extends ChatTimeline{
 

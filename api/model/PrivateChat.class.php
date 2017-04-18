@@ -1,6 +1,5 @@
 <?php
 
-namespace ChatSystem;
 
 class PrivateChat extends ChatTimeline{
 
